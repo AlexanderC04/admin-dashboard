@@ -264,12 +264,7 @@
   transform: scale(1.5);
   transform-origin: center;
 }
-.aside {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: start; */
-  /* gap: 2%; */
-}
+
 .announcements {
   margin-top: 2rem;
   background-color: #f0f9ff;
