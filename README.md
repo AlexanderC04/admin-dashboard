@@ -10,7 +10,7 @@ Build of a full dashboard design. Practice project for CSS Grid
 
 #### Desktop
 
-![](images/screenshotdesktop2.png)
+![](images/screenshotdesktop.png)
 
 ### Links
 
